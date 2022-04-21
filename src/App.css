@@ -1,0 +1,8 @@
+.shuffle  .repeat{
+    color: #00ff00;
+    transition: transform 200ms ease-in-out !important;
+}
+
+.shuffle:hover, .repeat:hover, .icon:hover{
+    transform: scale(1.2) !important;
+}
